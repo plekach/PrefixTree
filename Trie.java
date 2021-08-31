@@ -3,6 +3,7 @@
  * Lab 2: Debugging with an IDE and Prefix Tree)
  * The program {@class} TrieNode creates a Trie: Prefix Tree with insert, search, and startsWith
  * Author: Paige Lekach
+ * Updates to Comment
  * 
  */
 
